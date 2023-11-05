@@ -4,9 +4,17 @@
 
 dEagle VR is an immersive multiplayer virtual reality experience
 
-**⚠️ This project is currently under development ⚠️**
+# <p align='center'> **⚠️ This project is currently under development ⚠️**
 
-![screenshot of dEagle VR]
+## Preview
+
+<a href="https://deaglegenerator.vercel.app/" target="_blank">
+  <img src="https://i.imgur.com/xOYEgFz.png"> 
+</a>
+
+<a href="https://deaglegenerator.vercel.app/" target="_blank">
+  <img src="https://i.imgur.com/HEBbjmj.png"> 
+</a>
 
 ## Developer Instructions
 
