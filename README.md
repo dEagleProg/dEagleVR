@@ -4,7 +4,7 @@
 
 <p align='center'> dEagle VR is an immersive multiplayer virtual reality experience
 
-<p align='center'> **⚠️ This project is currently under development ⚠️**
+**<p align='center'> **⚠️ This project is currently under development ⚠️****
 
 ## Preview
 
