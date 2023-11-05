@@ -8,11 +8,11 @@
 
 ## Preview
 
-<a href="https://deaglegenerator.vercel.app/" target="_blank">
+<a href="https://deaglegame-5848a9204999.herokuapp.com" target="_blank">
   <img src="https://i.imgur.com/m9KFDnV.png"> 
 </a>
 
-<a href="https://deaglegenerator.vercel.app/" target="_blank">
+<a href="https://deaglegame-5848a9204999.herokuapp.com" target="_blank">
   <img src="https://i.imgur.com/WeSarSZ.png"> 
 </a>
 
