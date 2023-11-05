@@ -1,6 +1,6 @@
 # dEagle VR
 
-# <p align='center'> 🔗 _LIVE_ - [_**dEagleVR**_](https://deaglegame.herokuapp.com/)</p>
+# <p align='center'> 🔗 _LIVE_ - [_**dEagleVR**_](https://deaglegame-5848a9204999.herokuapp.com/)</p>
 
 <p align='center'> dEagle VR is an immersive multiplayer virtual reality experience
 
@@ -9,11 +9,11 @@
 ## Preview
 
 <a href="https://deaglegenerator.vercel.app/" target="_blank">
-  <img src="https://i.imgur.com/xOYEgFz.png"> 
+  <img src="https://i.imgur.com/m9KFDnV.png"> 
 </a>
 
 <a href="https://deaglegenerator.vercel.app/" target="_blank">
-  <img src="https://i.imgur.com/HEBbjmj.png"> 
+  <img src="https://i.imgur.com/WeSarSZ.png"> 
 </a>
 
 ## Developer Instructions
